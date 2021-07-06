@@ -1,0 +1,11 @@
+Desenvolver um algoritmo de aprendizagem automática baseado num modelo de regressão linear com multiplas variáveis, treinado com um conjunto de dados de treino que se encontra no ficheirop CSV anexo. Segue abaixo a descrição das variáveis incluídas nesse ficheiro.
+
+
+Variáveis:
+Id
+LotArea : Lot size in square feet
+YearBuilt: Original construction year
+BedroomAbvGr: Number of Bedrooms
+GarageCars: Size of garage in car capacity (number of cars)
+GarageArea: Garage size in square feet
+SalePrice: Price of sale
